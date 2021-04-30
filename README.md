@@ -1,4 +1,4 @@
-# hello-world
-Noob approach to GITHUB
+# Hello Humanoids
 
-I am developer looking to show case my skills
+Am I still a NoobU on GITHUB?
+
