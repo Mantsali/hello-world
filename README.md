@@ -1,4 +1,4 @@
 # Hello Humanoids
 
-Am I still a NoobU on GITHUB?
+Am I still a Noob on GITHUB?
 
